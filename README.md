@@ -19,10 +19,19 @@ Here are some ideas to get you started:
 
 </div>
 
+### Frontend Web Developer
+- 
+-
+
+### Interest
+- 
+
+<div align=center>
+	
 [![Github Badge](http://img.shields.io/badge/GitHub-black?style=flat&logo=github&link=https://github.com/brandon-pang/)](https://github.com/brandon-pang)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frontendbrandon/?locale=en_US)](https://www.linkedin.com/in/frontendbrandon/?locale=en_US)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jaehoon.pang@gmail.com)](mailto:jaehoon.pang@gmail.com)
+
+</div>
 	
 
