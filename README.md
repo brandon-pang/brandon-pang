@@ -19,12 +19,21 @@ Here are some ideas to get you started:
 
 </div>
 
-### Frontend Web Developer
-- 
--
+### [Highlights] as Frontend Web Developer
+- Proficient in industry-standard web technologies, and am always working on expanding my skillset.
+- Adaptable and proficient in the design and program of systems in a wide variety of areas
+
+### [Tech Stack]
+- Programming: JavaScript (es6+), Vue, jQuery, Reactjs, Angular1&2+
+- Styling: SCSS/SASS (CSS), Styled Component, Bootstrap, Tailwind
+- Server Side: Node.js, JSP, PHP (Laravel)
+- Project Management: Trello, Jira
+- Database Management: MS-SQL, MySql, MongoDB, GraphQL 
+- Design Tools: Sketch, Photoshop
 
 ### Interest
-- 
+- Vuejs, Laravel, GraphQL, Typescript
+- Watching and Playing baseball
 
 <div align=center>
 	
