@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 </div>
 
-### [Highlights] as Frontend Web Developer
-- Proficient in industry-standard web technologies, and am always working on expanding my skillset.
-- Adaptable and proficient in the design and program of systems in a wide variety of areas
+### [Highlights]
+- 👯 Having best a problem-solving and ability to perform skill
+- 🤔 Having improved over the 10 years with best practice.
 
 ### [Tech Stack]
 - Programming: JavaScript (es6+), Vue, jQuery, Reactjs, Angular1&2+
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Database Management: MS-SQL, MySql, MongoDB, GraphQL 
 - Design Tools: Sketch, Photoshop
 
-### Interest
+### [Interest]
 - Vuejs, Laravel, GraphQL, Typescript
 - Watching and Playing baseball
 
