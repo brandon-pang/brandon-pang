@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 </div>
 
-### [Project for React]
+### [Project with reactjs]
 - [[The list of best movie](https://github.com/brandon-pang/per-movie-list-client)]
 - [[The Official Site of Vertigo Games](https://github.com/brandon-pang/vtg-home-ver2)]
 - [[Uber Clone](https://github.com/brandon-pang/buber-server)]
