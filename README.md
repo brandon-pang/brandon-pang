@@ -35,6 +35,13 @@ Here are some ideas to get you started:
 - Vuejs, Laravel, GraphQL, Typescript
 - Watching and Playing baseball
 
+### Project
+|GraphQL|Reactjs|설명|
+|:---:|:---:|:---:|
+|왼쪽정렬|[[The list of best movie](https://github.com/brandon-pang/per-movie-list-client)]|중앙정렬|
+|[[Uber Clone](https://github.com/brandon-pang/buber-server)]|[[The Official Site of Vertigo Games](https://github.com/brandon-pang/vtg-home-ver2)]|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+
 <div align=center>
 	
 [![Github Badge](http://img.shields.io/badge/GitHub-black?style=flat&logo=github&link=https://github.com/brandon-pang/)](https://github.com/brandon-pang)
@@ -42,8 +49,3 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jaehoon.pang@gmail.com)](mailto:jaehoon.pang@gmail.com)
 
 </div>
-
-### [Project with reactjs]
-- [[The list of best movie](https://github.com/brandon-pang/per-movie-list-client)]
-- [[The Official Site of Vertigo Games](https://github.com/brandon-pang/vtg-home-ver2)]
-- [[Uber Clone](https://github.com/brandon-pang/buber-server)]
