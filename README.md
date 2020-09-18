@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 - 🤔 Having improved over the 10 years with best practice.
 
 ### [Tech Stack]
-- Programming: JavaScript (es6+), Vue, jQuery, Reactjs, Angular1&2+
-- Styling: SCSS/SASS (CSS), Styled Component, Bootstrap, Tailwind
-- Server Side: Node.js, JSP, PHP (Laravel)
-- Project Management: Trello, Jira
-- Database Management: MS-SQL, MySql, MongoDB, GraphQL 
+- Programming: JavaScript (es6+), Vue, Reactjs, Angular1&2+, Jquery, TypeScript
+- Styling: SCSS/SASS (CSS), Styled Component, Bootstrap, Tailwind...
+- Server Side: Node.js(Express), JSP(Struct2), PHP (Laravel)
+- Project Management: Git, Perforce, SVN, Trello, Jira
+- Database Management: SQL, PregreSQL, MongoDB, GraphQL 
 - Design Tools: Sketch, Photoshop
 
 ### [Interest]
-- Vuejs, Laravel, GraphQL, Typescript
+- React, Typescript, GraphQL, Laravel
 - Watching and Playing baseball
 
 ### Project
