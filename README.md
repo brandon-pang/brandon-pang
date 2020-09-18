@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 - Watching and Playing baseball
 
 ### Project
-|GraphQL|Reactjs|설명|
+|GraphQL|Reactjs|
 |:---:|:---:|:---:|
-|왼쪽정렬|[[The list of best movie](https://github.com/brandon-pang/per-movie-list-client)]|중앙정렬|
-|[[Uber Clone](https://github.com/brandon-pang/buber-server)]|[[The Official Site of Vertigo Games](https://github.com/brandon-pang/vtg-home-ver2)]|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
+|[[Movie list (server)](https://github.com/brandon-pang/per-movie-list-server)]|[[Movie list (Client)](https://github.com/brandon-pang/per-movie-list-client)]|
+|[[Uber Clone](https://github.com/brandon-pang/buber-server)]|[[The Official Site of Vertigo Games](https://github.com/brandon-pang/vtg-home-ver2)]|
+||[[The Official Site of Vertigo Games](https://github.com/brandon-pang/movie-app)]|
 
 <div align=center>
 	
