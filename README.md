@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 ### Project
 |GraphQL|Reactjs|
-|:---:|:---:|:---:|
+|:---:|:---:|
 |[[Movie list (server)](https://github.com/brandon-pang/per-movie-list-server)]|[[Movie list (Client)](https://github.com/brandon-pang/per-movie-list-client)]|
 |[[Uber Clone](https://github.com/brandon-pang/buber-server)]|[[The Official Site of Vertigo Games](https://github.com/brandon-pang/vtg-home-ver2)]|
-||[[The Official Site of Vertigo Games](https://github.com/brandon-pang/movie-app)]|
+||[[Movie App](https://github.com/brandon-pang/movie-app)]|
 
 <div align=center>
 	
