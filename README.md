@@ -31,7 +31,7 @@
 ### [Project]
 | Vue | React | Angular 1.5| Angular 5 | Typescript|
 |:---|:---|:---|:---|:---|
-| [Admin-tool 2nd ver. for papayaplay.com](https://github.com/brandon-pang/ppy-portal-admin-tool-ver2) | [Movie list (Server)](https://github.com/brandon-pang/per-movie-list-server) | [Admin-tool 1st ver. for papayaplay.com](https://github.com/brandon-pang/ppy-potal-admin-tool-ver1) | [Admin-tool for Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-admintool)| [Uber Clone (Server)](https://github.com/brandon-pang/buber-server)|
+| [Admin-tool 2nd,papayaplay.com](https://github.com/brandon-pang/ppy-portal-admin-tool-ver2) | [Movie list (Server)](https://github.com/brandon-pang/per-movie-list-server) | [Admin-tool 1st, papayaplay.com](https://github.com/brandon-pang/ppy-potal-admin-tool-ver1) | [Admin-tool, Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-admintool)| [Uber Clone (Server)](https://github.com/brandon-pang/buber-server)|
 | [Thegolfmecca.com](https://github.com/brandon-pang/tgm-official-home)| [Movie list (Client)](https://github.com/brandon-pang/per-movie-list-client) | [The microsites for Blackshot](https://github.com/brandon-pang/ppy-microsites-eachgame) | | [Uber Clone (Client)](https://github.com/brandon-pang/buber-client) |
-| [Vertigogames.com 1st ver.](https://github.com/brandon-pang/vtg-home-ver1)| [Vertigogames.com 2nd ver.](https://github.com/brandon-pang/vtg-home-ver2) | | | [Blockchain Clone](https://github.com/brandon-pang/type-blockchain)|
-| [In-game news article for Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-news)| | | |
+| [Vertigogames.com 1st](https://github.com/brandon-pang/vtg-home-ver1)| [Vertigogames.com 2nd](https://github.com/brandon-pang/vtg-home-ver2) | | | [Blockchain Clone](https://github.com/brandon-pang/type-blockchain)|
+| [In-game news, Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-news)| | | |
