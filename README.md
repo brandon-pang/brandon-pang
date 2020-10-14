@@ -21,11 +21,12 @@
 - Watching and Playing baseball
 
 ### Project
-|Vue|React|
-|:---|:---|
-| [Movie list(server)](https://github.com/brandon-pang/per-movie-list-server) | [Movie list (Client)](https://github.com/brandon-pang/per-movie-list-client) |
-| [Uber Clone](https://github.com/brandon-pang/buber-server)| [The Official Site of Vertigo Games](https://github.com/brandon-pang/vtg-home-ver2) |
-| [Movie App](https://github.com/brandon-pang/movie-app)|
+| Vue | React | Angular 1.5| Angular 5 | Typescript|
+|:---|:---|:---|:---|:---|
+| [Admin-tool 2nd ver. for papayaplay.com](https://github.com/brandon-pang/ppy-portal-admin-tool-ver2) | [Movie list (Client)](https://github.com/brandon-pang/per-movie-list-client) | [Admin-tool 1st ver. for papayaplay.com](https://github.com/brandon-pang/ppy-potal-admin-tool-ver1) | [Admin-tool for Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-admintool)| [Uber Clone (Server)](https://github.com/brandon-pang/buber-server)|
+| [Thegolfmecca.com](https://github.com/brandon-pang/tgm-official-home)| [Vertigogames.com 2nd ver.](https://github.com/brandon-pang/vtg-home-ver2) | [The microsites for Blackshot](https://github.com/brandon-pang/ppy-microsites-eachgame) | | [Uber Clone (Client)](https://github.com/brandon-pang/buber-client) |
+| [Vertigogames.com 1st ver.](https://github.com/brandon-pang/vtg-home-ver1)| | | [Blockchain Clone](https://github.com/brandon-pang/type-blockchain) |
+| [In-game news article for Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-news)| | |Uber Clone (Server)]() |
 <div align=center>
 	
 [![Github Badge](http://img.shields.io/badge/GitHub-black?style=flat&logo=github&link=https://github.com/brandon-pang/)](https://github.com/brandon-pang)
