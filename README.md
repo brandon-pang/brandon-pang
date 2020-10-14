@@ -23,9 +23,9 @@
 ### Project
 |Vue|React|
 |:---|:---|
-|[Movie list(server)(https://github.com/brandon-pang/per-movie-list-server)]|[Movie list (Client)(https://github.com/brandon-pang/per-movie-list-client)]|
-|[Uber Clone(https://github.com/brandon-pang/buber-server)]|[The Official Site of Vertigo Games(https://github.com/brandon-pang/vtg-home-ver2)]|
-|[[Movie App(https://github.com/brandon-pang/movie-app)]|
+| Movie list(server)(https://github.com/brandon-pang/per-movie-list-server) | Movie list (Client)(https://github.com/brandon-pang/per-movie-list-client) |
+| Uber Clone(https://github.com/brandon-pang/buber-server)| The Official Site of Vertigo Games(https://github.com/brandon-pang/vtg-home-ver2) |
+| Movie App(https://github.com/brandon-pang/movie-app)|
 <div align=center>
 	
 [![Github Badge](http://img.shields.io/badge/GitHub-black?style=flat&logo=github&link=https://github.com/brandon-pang/)](https://github.com/brandon-pang)
