@@ -17,7 +17,7 @@
 - Design Tools: Sketch, Photoshop
 
 ### [Interest]
-- React, Typescript, GraphQL, Laravel
+- Typescript, GraphQL, Laravel
 - Watching and Playing baseball
 
 <div align=center>
