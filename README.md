@@ -1,9 +1,3 @@
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrandon-pang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/brandon-pang)
-
-</div>
-
 ### [Highlights]
 - ✨ Having best a problem-solving and ability to perform skill. ✨
 - 🙌🏼 Having improved over the 10 years with best practice. 🙌🏼
@@ -35,3 +29,9 @@
 | [Thegolfmecca.com](https://github.com/brandon-pang/tgm-official-home)| [Movie list (Client)](https://github.com/brandon-pang/per-movie-list-client) | [The microsites for Blackshot](https://github.com/brandon-pang/ppy-microsites-eachgame) | | [Uber Clone (Client)](https://github.com/brandon-pang/buber-client) |
 | [Vertigogames.com 1st](https://github.com/brandon-pang/vtg-home-ver1)| [Vertigogames.com 2nd](https://github.com/brandon-pang/vtg-home-ver2) | | | [Blockchain Clone](https://github.com/brandon-pang/type-blockchain)|
 | [In-game news, Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-news)| | | |
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrandon-pang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/brandon-pang)
+
+</div>
