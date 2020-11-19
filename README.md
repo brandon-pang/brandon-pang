@@ -3,7 +3,7 @@
 - 🙌🏼 Having improved over the 10 years with best practice. 🙌🏼
 
 ### [Tech Stack]
-- Programming: JavaScript (es6+), Vue, Angular1.5, Jquery, TypeScript
+- Programming: JavaScript (es6+), Vue, React.js, Angular1.5, Jquery, TypeScript
 - Styling: SCSS/SASS (CSS), Styled Component, Bootstrap, Tailwind...
 - Server Side: Node.js(Express), JSP(Struct2), PHP
 - Project Management: Git, Perforce, SVN, Trello, Jira
