@@ -1,13 +1,13 @@
 ### [Highlights]
-- ✨ Having best a problem-solving and ability to perform skill. ✨
-- 🙌🏼 Having improved over the 10 years with best practice. 🙌🏼
+- 🙌🏼 Experienced web developments over the 10 years with best practice. 🙌🏼
+- ✨ Having a great problem-solving skill. ✨
 
-### [Tech Stack]
-- Programming: JavaScript (es6+), Vue, React.js, Angular1.5, Jquery, TypeScript
-- Styling: SCSS/SASS (CSS), Styled Component, Bootstrap, Tailwind...
-- Server Side: Node.js(Express), JSP(Struct2), PHP
+### [Tech Stacks]
+- Programming: ES6+, TypeScript, Vue, React.js, Angular 1.5+
+- Styling: SCSS/SASS (CSS), Styled Component, Bootstrap, Tailwind
+- Server Side: Node.js(Express), JSP(Struct2), PHP(Laravel)
 - Project Management: Git, Perforce, SVN, Trello, Jira
-- Database Management: SQL, GraphQL 
+- Database Management: SQLs, NoSQL, GraphQL, RestAPI 
 - Design Tools: Sketch, Photoshop
 
 ### [Interest]
