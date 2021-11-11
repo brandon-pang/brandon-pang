@@ -3,15 +3,15 @@
 - ✨ Having a great problem-solving skill. ✨
 
 ### [Tech Stacks]
-- Programming: ES6+, TypeScript, Vue, React.js, Angular 1.5+
-- Styling: SCSS/SASS (CSS), Styled Component, Bootstrap, Tailwind
-- Server Side: Node.js(Express), JSP(Struct2), PHP(Laravel)
-- Project Management: Git, Perforce, SVN, Trello, Jira
-- Database Management: SQLs, NoSQL, GraphQL, RestAPI 
+- Programming: ES6+, TypeScript, VueJS, React.js, AngularJS 1.5, Angular 2+
+- Styling: SCSS/SASS, Styled Component, Bootstrap, Tailwind CSS
+- Server Side: Nestjs, Node.js(Express), PHP(Laravel)
+- Project Management: Git, (Perforce, SVN, Trello, Jira)
+- Database Management: SQLs, GraphQL, NoSQL, RestAPI 
 - Design Tools: Sketch, Photoshop
 
 ### [Interest]
-- Typescript, GraphQL, Laravel
+- Typescript, GraphQL, SQLs
 - Watching and Playing baseball
 
 <div align=center>
@@ -23,9 +23,9 @@
 </div>
 
 ### [Project]
-| Vue | React | Angular 1.5| Angular 5 | Typescript|
+| Vue | React | AngularJS 1.5| Angular 2+ | Typescript|
 |:---|:---|:---|:---|:---|
-| [Admin-tool 2nd,papayaplay.com](https://github.com/brandon-pang/ppy-portal-admin-tool-ver2) | [Movie list (Server)](https://github.com/brandon-pang/per-movie-list-server) | [Admin-tool 1st, papayaplay.com](https://github.com/brandon-pang/ppy-potal-admin-tool-ver1) | [Admin-tool, Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-admintool)| [Uber Clone (Server)](https://github.com/brandon-pang/buber-server)|
+|[Movie list (Server)](https://github.com/brandon-pang/per-movie-list-server) | [Admin-tool 1st, papayaplay.com](https://github.com/brandon-pang/ppy-potal-admin-tool-ver1) | [Admin-tool, Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-admintool)| [Uber Clone (Server)](https://github.com/brandon-pang/buber-server)|
 | [Thegolfmecca.com](https://github.com/brandon-pang/tgm-official-home)| [Movie list (Client)](https://github.com/brandon-pang/per-movie-list-client) | [The microsites for Blackshot](https://github.com/brandon-pang/ppy-microsites-eachgame) | | [Uber Clone (Client)](https://github.com/brandon-pang/buber-client) |
 | [Vertigogames.com 1st](https://github.com/brandon-pang/vtg-home-ver1)| [Vertigogames.com 2nd](https://github.com/brandon-pang/vtg-home-ver2) | | | [Blockchain Clone](https://github.com/brandon-pang/type-blockchain)|
 | [In-game news, Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-news)| | | |
