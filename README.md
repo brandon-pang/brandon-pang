@@ -6,8 +6,8 @@
 - Programming: ES6+, TypeScript, VueJS, React.js, AngularJS 1.5, Angular 2+
 - Styling: SCSS/SASS, Styled Component, Bootstrap, Tailwind CSS
 - Server Side: Nestjs, Node.js(Express), PHP(Laravel)
-- Project Management: Git, (Perforce, SVN, Trello, Jira)
-- Database Management: SQLs, GraphQL, NoSQL, RestAPI 
+- Project Management: Git, (Perforce, SVN, Jira)
+- Database Management: SQLs, NoSQL, GraphQL, RestAPI 
 - Design Tools: Sketch, Photoshop
 
 ### [Interest]
