@@ -29,4 +29,4 @@
 | [Vertigogames.com 1st](https://github.com/brandon-pang/vtg-home-ver1) | [Movie list (Client)](https://github.com/brandon-pang/per-movie-list-client) | [Uber Clone (Client)](https://github.com/brandon-pang/buber-client) |
 | [In-game news, Blackshot M](https://github.com/brandon-pang/ppy-bsm-in-news) | [Vertigogames.com 2nd](https://github.com/brandon-pang/vtg-home-ver2) | [Blockchain Clone](https://github.com/brandon-pang/type-blockchain) |
 
-<a href="https://hits.sh/github.com/brandon-pang/"><img alt="Hits" src="https://hits.sh/github.com/brandon-pang.svg"/></a>
+<div align="center"><a href="https://hits.sh/github.com/brandon-pang/"><img alt="Hits" src="https://hits.sh/github.com/brandon-pang.svg"/></a></div>
